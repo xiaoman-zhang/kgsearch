@@ -1,328 +1,1999 @@
-slovakia,neighbor,ukraine
-slovakia,neighbor,hungary
-slovakia,neighbor,austria
-slovakia,neighbor,czechia
-slovakia,neighbor,poland
-niger,neighbor,algeria
-niger,neighbor,chad
-niger,neighbor,libya
-niger,neighbor,burkina_faso
-niger,neighbor,mali
-niger,neighbor,nigeria
-niger,neighbor,benin
-morocco,neighbor,western_sahara
-morocco,neighbor,spain
-morocco,neighbor,algeria
-senegal,neighbor,gambia
-senegal,neighbor,mauritania
-senegal,neighbor,mali
-senegal,neighbor,guinea-bissau
-senegal,neighbor,guinea
-equatorial_guinea,neighbor,gabon
-equatorial_guinea,neighbor,cameroon
-gibraltar,neighbor,spain
-liechtenstein,neighbor,switzerland
-liechtenstein,neighbor,austria
-venezuela,neighbor,brazil
-venezuela,neighbor,colombia
-venezuela,neighbor,guyana
-afghanistan,neighbor,pakistan
-afghanistan,neighbor,iran
-afghanistan,neighbor,turkmenistan
-afghanistan,neighbor,uzbekistan
-afghanistan,neighbor,china
-afghanistan,neighbor,tajikistan
-greece,neighbor,turkey
-greece,neighbor,albania
-greece,neighbor,macedonia
-greece,neighbor,bulgaria
-qatar,neighbor,saudi_arabia
-ecuador,neighbor,peru
-ecuador,neighbor,colombia
-yemen,neighbor,oman
-yemen,neighbor,saudi_arabia
-namibia,neighbor,south_africa
-namibia,neighbor,zambia
-namibia,neighbor,angola
-namibia,neighbor,botswana
-hong_kong,neighbor,china
-paraguay,neighbor,brazil
-paraguay,neighbor,argentina
-paraguay,neighbor,bolivia
-india,neighbor,afghanistan
-india,neighbor,bangladesh
-india,neighbor,myanmar
-india,neighbor,pakistan
-india,neighbor,nepal
-india,neighbor,bhutan
-india,neighbor,china
-india,neighbor,sri_lanka
-croatia,neighbor,hungary
-croatia,neighbor,serbia
-croatia,neighbor,montenegro
-croatia,neighbor,bosnia_and_herzegovina
-croatia,neighbor,slovenia
-ethiopia,neighbor,eritrea
-ethiopia,neighbor,sudan
-ethiopia,neighbor,djibouti
-ethiopia,neighbor,south_sudan
-ethiopia,neighbor,somalia
-ethiopia,neighbor,kenya
-republic_of_the_congo,neighbor,cameroon
-republic_of_the_congo,neighbor,dr_congo
-republic_of_the_congo,neighbor,angola
-republic_of_the_congo,neighbor,gabon
-republic_of_the_congo,neighbor,central_african_republic
-malaysia,neighbor,brunei
-malaysia,neighbor,indonesia
-malaysia,neighbor,thailand
-latvia,neighbor,belarus
-latvia,neighbor,lithuania
-latvia,neighbor,russia
-latvia,neighbor,estonia
-algeria,neighbor,mauritania
-algeria,neighbor,libya
-algeria,neighbor,tunisia
-algeria,neighbor,western_sahara
-algeria,neighbor,mali
-eritrea,neighbor,sudan
-eritrea,neighbor,djibouti
-bhutan,neighbor,china
-vatican_city,neighbor,italy
-saint_martin,neighbor,sint_maarten
-mali,neighbor,mauritania
-mali,neighbor,ivory_coast
-mali,neighbor,guinea
-mali,neighbor,burkina_faso
-mauritania,neighbor,western_sahara
-netherlands,neighbor,belgium
-netherlands,neighbor,germany
-swaziland,neighbor,south_africa
-swaziland,neighbor,mozambique
-macau,neighbor,china
-lesotho,neighbor,south_africa
-czechia,neighbor,austria
-czechia,neighbor,germany
-czechia,neighbor,poland
-monaco,neighbor,france
-gabon,neighbor,cameroon
-brazil,neighbor,suriname
-brazil,neighbor,peru
-brazil,neighbor,uruguay
-brazil,neighbor,french_guiana
-brazil,neighbor,colombia
-brazil,neighbor,guyana
-brazil,neighbor,argentina
-brazil,neighbor,bolivia
-botswana,neighbor,south_africa
-botswana,neighbor,zambia
-botswana,neighbor,zimbabwe
-uzbekistan,neighbor,kyrgyzstan
-uzbekistan,neighbor,kazakhstan
-uzbekistan,neighbor,turkmenistan
-uzbekistan,neighbor,tajikistan
-united_kingdom,neighbor,ireland
-papua_new_guinea,neighbor,indonesia
-moldova,neighbor,ukraine
-moldova,neighbor,romania
-chile,neighbor,argentina
-chile,neighbor,bolivia
-chile,neighbor,peru
-kazakhstan,neighbor,kyrgyzstan
-kazakhstan,neighbor,china
-kazakhstan,neighbor,russia
-kazakhstan,neighbor,turkmenistan
-mozambique,neighbor,south_africa
-mozambique,neighbor,tanzania
-mozambique,neighbor,malawi
-mozambique,neighbor,zimbabwe
-mozambique,neighbor,zambia
-guinea-bissau,neighbor,guinea
-bangladesh,neighbor,myanmar
-tunisia,neighbor,libya
-haiti,neighbor,dominican_republic
-bolivia,neighbor,argentina
-bolivia,neighbor,peru
-nigeria,neighbor,cameroon
-nigeria,neighbor,chad
-nigeria,neighbor,benin
-nepal,neighbor,china
-estonia,neighbor,russia
-cameroon,neighbor,central_african_republic
-cameroon,neighbor,chad
-south_korea,neighbor,north_korea
-palestine,neighbor,egypt
-palestine,neighbor,israel
-palestine,neighbor,jordan
-austria,neighbor,italy
-austria,neighbor,slovenia
-austria,neighbor,germany
-austria,neighbor,hungary
-austria,neighbor,switzerland
-benin,neighbor,togo
-benin,neighbor,burkina_faso
-burkina_faso,neighbor,ghana
-burkina_faso,neighbor,ivory_coast
-burkina_faso,neighbor,togo
-france,neighbor,italy
-france,neighbor,luxembourg
-france,neighbor,andorra
-france,neighbor,switzerland
-france,neighbor,germany
-france,neighbor,belgium
-france,neighbor,spain
-uganda,neighbor,dr_congo
-uganda,neighbor,tanzania
-uganda,neighbor,rwanda
-uganda,neighbor,south_sudan
-uganda,neighbor,kenya
-guinea,neighbor,liberia
-guinea,neighbor,sierra_leone
-guinea,neighbor,ivory_coast
-kyrgyzstan,neighbor,china
-kyrgyzstan,neighbor,tajikistan
-ivory_coast,neighbor,ghana
-ivory_coast,neighbor,liberia
-zambia,neighbor,angola
-zambia,neighbor,tanzania
-zambia,neighbor,malawi
-zambia,neighbor,zimbabwe
-zambia,neighbor,dr_congo
-bosnia_and_herzegovina,neighbor,montenegro
-bosnia_and_herzegovina,neighbor,serbia
-germany,neighbor,denmark
-germany,neighbor,poland
-germany,neighbor,luxembourg
-germany,neighbor,switzerland
-germany,neighbor,belgium
-iraq,neighbor,turkey
-iraq,neighbor,iran
-iraq,neighbor,kuwait
-iraq,neighbor,jordan
-iraq,neighbor,saudi_arabia
-iraq,neighbor,syria
-albania,neighbor,kosovo
-albania,neighbor,montenegro
-albania,neighbor,macedonia
-guyana,neighbor,suriname
-suriname,neighbor,french_guiana
-montenegro,neighbor,serbia
-montenegro,neighbor,kosovo
-poland,neighbor,ukraine
-poland,neighbor,belarus
-poland,neighbor,lithuania
-poland,neighbor,russia
-lebanon,neighbor,syria
-lebanon,neighbor,israel
-sweden,neighbor,finland
-sweden,neighbor,norway
-switzerland,neighbor,italy
-mexico,neighbor,united_states
-mexico,neighbor,guatemala
-mexico,neighbor,belize
-guatemala,neighbor,belize
-guatemala,neighbor,honduras
-guatemala,neighbor,el_salvador
-argentina,neighbor,uruguay
-rwanda,neighbor,burundi
-rwanda,neighbor,dr_congo
-rwanda,neighbor,tanzania
-cyprus,neighbor,united_kingdom
-mongolia,neighbor,china
-mongolia,neighbor,russia
-zimbabwe,neighbor,south_africa
-canada,neighbor,united_states
-dr_congo,neighbor,central_african_republic
-dr_congo,neighbor,angola
-dr_congo,neighbor,tanzania
-dr_congo,neighbor,south_sudan
-dr_congo,neighbor,burundi
-kosovo,neighbor,serbia
-kosovo,neighbor,macedonia
-south_sudan,neighbor,central_african_republic
-south_sudan,neighbor,sudan
-south_sudan,neighbor,kenya
-vietnam,neighbor,china
-vietnam,neighbor,cambodia
-vietnam,neighbor,laos
-luxembourg,neighbor,belgium
-ghana,neighbor,togo
-tajikistan,neighbor,china
-malawi,neighbor,tanzania
-burundi,neighbor,tanzania
-kenya,neighbor,tanzania
-kenya,neighbor,somalia
-iran,neighbor,turkey
-iran,neighbor,turkmenistan
-iran,neighbor,pakistan
-iran,neighbor,azerbaijan
-iran,neighbor,armenia
-italy,neighbor,san_marino
-italy,neighbor,slovenia
-united_arab_emirates,neighbor,oman
-united_arab_emirates,neighbor,saudi_arabia
-nicaragua,neighbor,costa_rica
-nicaragua,neighbor,honduras
-andorra,neighbor,spain
-honduras,neighbor,el_salvador
-central_african_republic,neighbor,chad
-central_african_republic,neighbor,sudan
-kuwait,neighbor,saudi_arabia
-bulgaria,neighbor,turkey
-bulgaria,neighbor,romania
-bulgaria,neighbor,serbia
-bulgaria,neighbor,macedonia
-thailand,neighbor,cambodia
-thailand,neighbor,myanmar
-thailand,neighbor,laos
-somalia,neighbor,djibouti
-chad,neighbor,libya
-chad,neighbor,south_sudan
-saudi_arabia,neighbor,jordan
-saudi_arabia,neighbor,oman
-azerbaijan,neighbor,turkey
-azerbaijan,neighbor,georgia
-azerbaijan,neighbor,russia
-azerbaijan,neighbor,armenia
-peru,neighbor,colombia
-ukraine,neighbor,romania
-ukraine,neighbor,belarus
-ukraine,neighbor,hungary
-ukraine,neighbor,russia
-pakistan,neighbor,china
-armenia,neighbor,turkey
-armenia,neighbor,georgia
-lithuania,neighbor,belarus
-lithuania,neighbor,russia
-slovenia,neighbor,hungary
-macedonia,neighbor,serbia
-serbia,neighbor,romania
-serbia,neighbor,hungary
-russia,neighbor,georgia
-russia,neighbor,norway
-russia,neighbor,finland
-russia,neighbor,north_korea
-russia,neighbor,belarus
-russia,neighbor,china
-north_korea,neighbor,china
-syria,neighbor,turkey
-syria,neighbor,israel
-syria,neighbor,jordan
-timor-leste,neighbor,indonesia
-georgia,neighbor,turkey
-finland,neighbor,norway
-laos,neighbor,china
-laos,neighbor,cambodia
-laos,neighbor,myanmar
-colombia,neighbor,panama
-egypt,neighbor,sudan
-egypt,neighbor,israel
-egypt,neighbor,libya
-china,neighbor,myanmar
-jordan,neighbor,israel
-costa_rica,neighbor,panama
-sudan,neighbor,chad
-sudan,neighbor,libya
-sierra_leone,neighbor,liberia
-hungary,neighbor,romania
-spain,neighbor,portugal
+normal,modify,sulci
+unremarkable,modify,orbits
+configuration,modify,sulci
+normal,modify,ventricles
+size,modify,sulci
+size,modify,ventricles
+configuration,modify,ventricles
+acute,modify,fracture
+acute,modify,hemorrhage
+prominence,modify,ventricles
+prominence,modify,sulci
+prominent,modify,sulci
+acute,modify,territorial infarction
+prominent,modify,ventricles
+large,modify,territorial infarction
+unremarkable,modify,globes
+acute,modify,infarction
+acute,modify,edema
+acute,modify,major vascular territorial infarct
+acute,modify,major vascular territorial infarction
+unchanged,modify,ventricles
+intact,modify,globes
+large,modify,mass
+stable,modify,ventricles
+clear,modify,mastoids
+hypodensities,located_at,periventricular
+unchanged,modify,sulci
+chronic,modify,microvascular ischemic disease
+clear,modify,imaged paranasal sinuses
+large,modify,masses
+caliber,modify,sulci
+acute,modify,territorial infarct
+hypodensities,located_at,subcortical
+stable,modify,sulci
+caliber,modify,ventricles
+acute,modify,mass
+mild,modify,prominence
+overall size,modify,sulci
+large,modify,territorial infarct
+chronic,modify,hypodensities
+unremarkable,modify,bones
+intact,modify,calvarium
+enlarged,modify,sulci
+chronic,modify,microvascular infarction
+intact,modify,orbits
+acute,modify,major vascular territory infarction
+enlarged,modify,ventricles
+mildly,modify,prominent
+large,modify,hemorrhage
+cavernous portions,located_at,internal carotid arteries
+chronic,modify,infarct
+appearance,modify,sulci
+normal,modify,cisterns
+unchanged,modify,encephalomalacia
+large,modify,edema
+acute,modify,abnormalities
+unchanged,modify,hypodensity
+preserved,modify,orbits
+acute,modify,acute major vascular territorial infarction
+small,modify,hematoma
+chronic,modify,microvascular ischemic changes
+sulci,suggestive_of,atrophy
+appearance,modify,ventricles
+ventricles,suggestive_of,atrophy
+periventricular,located_at,white matter hypodensities
+morphology,modify,sulci
+symmetric in configuration,modify,sulci
+within normal limits,modify,ventricles
+mild,modify,opacification
+mild,modify,effacement
+morphology,modify,ventricles
+acute,modify,ischemic event
+size,modify,cisterns
+acute,modify,sinusitis
+prominent,suggestive_of,atrophy
+within expected limits,modify,ventricles
+symmetric,modify,ventricles
+normal in appearance,modify,ventricles
+within expected limits,modify,sulci
+acute,modify,major vascular territorial infarcts
+essentially clear,modify,mastoids
+unremarkable,modify,extracalvarial soft tissues
+clear,modify,remaining paranasal sinuses
+chronic,modify,lacune
+white matter hypodensities,located_at,periventricular
+unchanged,modify,hemorrhage
+new,modify,hemorrhage
+unremarkable,modify,skull
+unchanged,modify,opacification
+symmetric,modify,sulci
+within normal limits,modify,sulci
+within normal limits,modify,orbits
+midline,modify,ventricles
+chronic,modify,microvascular ischemia
+resolved,modify,pneumocephalus
+symmetric in configuration,modify,ventricles
+within expected limits,modify,cisterns
+normal,modify,lenses
+unchanged,modify,effacement
+small,modify,hypodensity
+intact,modify,lenses
+acute,modify,process
+hypodensities,located_at,periventricular white matter
+acute,modify,abnormality
+stable,modify,encephalomalacia
+normal in appearance,modify,sulci
+normal in configuration,modify,sulci
+small,modify,pneumocephalus
+periventricular,located_at,hypodensities
+hypodensities,suggestive_of,microvascular ischemic disease
+nonspecific,modify,hypodensities
+new,modify,acute
+persistent,modify,effacement
+clear,modify,bilaterally
+hypodensity,suggestive_of,infarct
+unchanged,modify,cisterns
+normal in configuration,modify,ventricles
+unchanged,modify,prominence
+unremarkable,modify,calvaria
+limited,modify,motion
+effacement,located_at,sulci
+shape,modify,sulci
+tip,located_at,foramen
+large,modify,infarction
+configuration,modify,cisterns
+small,modify,fluid
+mild,modify,thickening
+large,modify,encephalomalacia
+new,modify,territorial infarction
+prominence,suggestive_of,atrophy
+shape,modify,ventricles
+contour,modify,sulci
+normal in size,modify,ventricles
+minimal,modify,opacification
+stable,modify,prominence
+hypodensity,suggestive_of,microvascular ischemic changes
+acute major vascular territorial infarction,modify,major vascular territorial infarction
+effacement,located_at,fourth ventricle
+ventricles,suggestive_of,age related atrophy
+mild,modify,hypodensities
+fluid,located_at,nasopharynx
+symmetric,modify,orbits
+atrophy,located_at,sulci
+chronic,modify,encephalomalacia
+contour,modify,ventricles
+atrophy,located_at,ventricles
+stable,modify,hypodensity
+stable,modify,hemorrhage
+mildly,modify,ventricles
+within normal limits,modify,nasopharynx
+prominent,suggestive_of,age related atrophy
+mild,modify,ex vacuo dilatation
+moderate,modify,opacification
+hypoattenuation,located_at,periventricular
+hemorrhage,located_at,fourth ventricle
+unchanged,modify,infarct
+dilatation,located_at,ventricles
+unchanged,modify,ventriculomegaly
+new,modify,edema
+chronic,modify,fracture
+small,modify,osteoma
+clear,modify,ethmoid
+enlarged,suggestive_of,age related atrophy
+crowding,located_at,foramen magnum
+stable,modify,effacement
+appropriate,modify,ventricles
+hypodensities,located_at,white matter
+clear,modify,included paranasal sinuses
+bilaterally,modify,internal carotid arteries
+appropriate,modify,sulci
+chronic,modify,deformity
+hypoattenuation,located_at,periventricular white matter
+normal,modify,size
+acute,modify,territorial vascular infarction
+hypodensity,suggestive_of,encephalomalacia
+decreased,modify,pneumocephalus
+within normal limits,modify,extracalvarial soft tissues
+persistent,modify,opacification
+hypodensities,located_at,deep
+unchanged,modify,size
+sulci,suggestive_of,age related atrophy
+small,modify,lacune
+bilaterally,modify,globes
+secretions,located_at,nasopharynx
+bilaterally,modify,calcifications
+unchanged,modify,edema
+visualized portions,modify,globes
+enlargement,located_at,ventricles
+unchanged,modify,calcification
+unchanged,modify,pneumocephalus
+acute,modify,transcortical infarction
+subacute,modify,infarct
+unremarkable,modify,imaged bones
+moderate,modify,pneumocephalus
+mild,modify,edema
+stable in configuration,modify,sulci
+unchanged,modify,calcifications
+stable,modify,stable in configuration
+acute,modify,injury
+stable in configuration,modify,stable
+normal,modify,configuration
+significant,modify,edema
+stable,modify,configuration
+intact,modify,skull
+mild,modify,pneumocephalus
+size,modify,hemorrhage
+clear,modify,sinuses
+stable,modify,ventriculomegaly
+patent,modify,ventricles
+preserved,modify,sulci
+preserved,modify,ventricles
+acute,modify,hydrocephalus
+bilaterally,modify,opacification
+unchanged,modify,hyperdensity
+small,modify,meningioma
+unremarkable,modify,imaged osseous structures
+bilateral,modify,hypodensities
+patent,modify,fourth ventricle
+unchanged,modify,configuration
+hypodensity,suggestive_of,edema
+mild,modify,dilatation
+extensive,modify,hypodensity
+hypodensities,located_at,white matter hypodensities
+dilated,modify,ventricles
+resolved,modify,hemorrhage
+evolving,modify,infarction
+white matter hypodensities,located_at,subcortical
+sequela,modify,chronic
+moderate,modify,prominence
+chronic,modify,opacification
+tip,located_at,septum pellucidum
+cavernous segments,located_at,internal carotid arteries
+hemorrhage,located_at,ventricles
+enlarged,suggestive_of,atrophy
+large,modify,territorial vascular infarction
+no change,modify,size
+layering,modify,hemorrhage
+acute,modify,blood products
+calcification,located_at,cavernous portions
+bilateral,modify,carotid siphon calcifications
+chronic,modify,microangiopathy
+increased,modify,ventricles
+calcification,located_at,internal carotid arteries
+stable,modify,cisterns
+somewhat prominent,modify,sulci
+small,modify,hyperdensity
+bilaterally,modify,opacified
+hyperdensity,suggestive_of,hemorrhage
+scattered,modify,opacification
+hypodensity,suggestive_of,lacune
+blood,located_at,ventricles
+clear,modify,sphenoid
+symmetric,modify,prominence
+moderate,modify,ventriculomegaly
+limited,modify,examination
+symmetric,modify,globes
+minimal,modify,fluid
+effacement,located_at,quadrigeminal plate cistern
+hypoattenuation,suggestive_of,microvascular ischemic disease
+moderately,modify,prominent
+notable,modify,orbits
+prominent,modify,cisterns
+fracture,located_at,calvarium
+mild,modify,calcifications
+small,modify,encephalomalacia
+additional fractures,modify,fractures
+mild,modify,ventriculomegaly
+patent,modify,cisterns
+effaced,modify,sulci
+unchanged,modify,meningioma
+bilaterally,modify,orbits
+moderate,modify,hypodensities
+mild,modify,calcification
+sulci,modify,caliber
+unchanged,modify,dilatation
+atrophy,located_at,cerebellum
+unremarkable,modify,mastoids
+normal in size,modify,sulci
+mild,modify,hydrocephalus
+stable,modify,infarct
+similar,modify,ventricles
+new,modify,mass
+effacement,located_at,quadrigeminal cistern
+intact,modify,imaged osseous structures
+ventricles,modify,caliber
+calcifications,located_at,internal carotid arteries
+stable in configuration,modify,ventricles
+subtle,modify,hypodensity
+unchanged,modify,lacune
+unchanged,modify,ex vacuo dilatation
+not significantly changed,modify,ventricles
+intact,modify,globe
+extensive,modify,encephalomalacia
+small,modify,blood
+persistent,modify,edema
+resection,located_at,meningioma
+stable,modify,opacification
+unchanged,modify,fracture
+calcifications,located_at,cavernous portions
+imaged portions,modify,globes
+enlargement,located_at,sulci
+unchanged,modify,fluid
+overall size,modify,ventricles
+hypodensities,suggestive_of,microangiopathy
+patent,modify,foramen magnum
+decreased,modify,ventricles
+small,modify,laceration
+prominent,modify,cisterna magna
+large,modify,hypodensity
+evolution,modify,blood products
+bilateral,modify,calcifications
+encephalomalacia,suggestive_of,infarction
+slight,modify,prominence
+acute,modify,ischemia
+patent,modify,quadrigeminal plate cistern
+hemorrhage,located_at,brain
+stable,modify,size
+effacement,located_at,ventricles
+minimal,modify,effacement
+unchanged,modify,white matter hypodensities
+unchanged,modify,osteoma
+degraded,modify,motion
+ex vacuo dilatation,located_at,ventricles
+hypodensity,located_at,pons
+new,modify,territorial infarct
+imaged portions,modify,orbits
+stable,modify,edema
+bilateral,modify,opacification
+mildly,modify,degraded
+coiling,modify,aneurysm
+unchanged,modify,deformity
+resolved,modify,blood products
+extensive,modify,opacification
+unchanged,modify,blood
+blood,located_at,fourth ventricle
+small,modify,calcification
+normal,modify,fourth ventricle
+cavum septum pellucidum et vergae,modify,cavum septum pellucidum
+cavum septum pellucidum,modify,cavum septum pellucidum et vergae
+unchanged,modify,unchanged from prior
+unchanged from prior,modify,unchanged
+somewhat limited,modify,motion
+chronic,modify,white matter hypodensities
+sulci,modify,configuration
+large,modify,major vascular territory infarction
+somewhat prominent,modify,ventricles
+direct communication,modify,referring provider
+calcified,modify,meningioma
+decreased,modify,hemorrhage
+position,modify,sulci
+preserved,modify,gray and white matter differentiation
+proportional,modify,ventricles
+bilaterally,modify,sulci
+small,modify,ventricles
+underpneumatized,modify,mastoids
+demineralized,modify,bones
+proportional,modify,sulci
+minimal,modify,pneumocephalus
+small,modify,infarct
+stably prominent,modify,ventricles
+ventricles,located_at,sulci
+normal,modify,brain
+moderate,modify,calcifications
+ventricles,modify,configuration
+unchanged,modify,hydrocephalus
+opacification,modify,bilaterally
+clear,modify,remainder
+hematoma,located_at,vertex
+stably prominent,modify,sulci
+unchanged,modify,atrophy
+opacification,suggestive_of,intubation
+chronic,modify,microvascular infarcts
+decreased,modify,density
+acute,modify,acute major vascular territorial infarct
+normal,modify,white matter
+recent,modify,territorial infarction
+unchanged,modify,brain
+unchanged,modify,appearance
+normal,modify,contour
+near complete opacification,modify,opacification
+persistent,modify,hypodensity
+persistent,modify,pneumocephalus
+symmetric,modify,conus
+hypodensity,suggestive_of,microvascular infarction
+fluid,suggestive_of,intubation
+preserved,modify,quadrigeminal cisterns
+layering,modify,blood products
+similar,modify,sulci
+partial,modify,opacification
+mildly,modify,sulci
+bilaterally,modify,partially opacified
+bilaterally,modify,ventricles
+not significantly changed,modify,hemorrhage
+position,modify,ventricles
+extensive,modify,white matter hypodensities
+small,modify,lipoma
+larger,modify,ventricles
+stable,modify,pneumocephalus
+mild,modify,hyperostosis frontalis interna
+acute,modify,intracranial processes
+stable,modify,dilatation
+evolving,modify,hematoma
+significant,modify,hemorrhage
+within normal limits,modify,cisterns
+differentiation,modify,white matter
+white matter hypodensities,suggestive_of,microvascular ischemic disease
+essentially clear,modify,imaged paranasal sinuses
+fractures,located_at,calvarial
+deviated,located_at,right
+acute,modify,masses
+chronic,modify,microvascular infarct
+moderate,modify,dilation
+no change,modify,ventricles
+clear,modify,frontal
+worsening,modify,hydrocephalus
+edema,located_at,hemorrhage
+bilateral,modify,calcification
+hyperdensity,suggestive_of,calcification
+extensive,modify,calcification
+mild,modify,asymmetry
+increased,modify,hemorrhage
+persistent,modify,cavum septum pellucidum
+increased,modify,edema
+calcification,located_at,falx
+hypodensity,located_at,corona radiata
+chronic,modify,hygroma
+bilaterally,modify,underpneumatized
+hematoma,located_at,periorbital
+stable in size,modify,ventricles
+hypodensities,located_at,cerebellum
+unchanged,modify,lesion
+fracture,located_at,skull
+mildly,modify,effaced
+high,modify,stroke
+hemorrhage,located_at,tentorium
+hypodensity,suggestive_of,microvascular ischemia
+compression,located_at,fourth ventricle
+nondisplaced,modify,fracture
+unchanged in configuration,modify,sulci
+normal in appearance,modify,orbits
+shift,located_at,right
+notable,modify,globes
+attenuation,modify,white matter
+preserved,modify,differentiation
+small,modify,polyp
+overall configuration,modify,sulci
+sulci,located_at,vertex
+hyperdensity,suggestive_of,artifact
+obvious fracture,modify,fracture
+unchanged,modify,blood products
+slight,modify,effacement
+extensive,modify,edema
+acute,modify,blood
+tip,located_at,ventricle
+unchanged in configuration,modify,ventricles
+decreased in size,modify,ventricles
+large,modify,territorial acute infarction
+appearance,modify,cisterns
+hypoattenuation,located_at,subcortical
+stable,modify,ex vacuo dilatation
+opacification,located_at,ethmoid
+clear,modify,paranasal
+layering,modify,blood
+edema,located_at,brain
+normal,modify,caliber
+age,modify,sulci
+unchanged,modify,cisterna magna
+evolving,modify,blood products
+mild,modify,compression
+encephalomalacia,located_at,bifrontal
+hyperdensity,located_at,sulci
+acute,modify,territorial infarctionhemorrhage
+mild,modify,microvascular ischemic disease
+significant,modify,herniation
+persistent,modify,ventriculomegaly
+effaced,located_at,fourth ventricle
+extensive,modify,pneumocephalus
+unchanged,modify,collection
+ventriculomegaly,suggestive_of,normal pressure hydrocephalus
+severe,modify,ventriculomegaly
+evolving,modify,encephalomalacia
+patent,modify,quadrigeminal cisterns
+course,modify,sulci
+left,modify,opacification
+hyperdensity,located_at,falx
+opacification,located_at,nasopharynx
+dilatation,located_at,sulci
+within normal limits,modify,globes
+small,modify,retention cyst
+pneumocephalus,modify,resolved
+normal appearing,modify,orbits
+bilaterally,modify,hypodensities
+calcifications,located_at,carotid siphon
+opacification,located_at,right
+large,modify,laceration
+normal,modify,cerebellum
+recent,modify,hemorrhage
+stable,modify,calcification
+calcification,located_at,carotid siphon
+resection,located_at,mass
+course,modify,ventricles
+bilateral,modify,concha bullosa
+hypodensity,located_at,cortex
+infarct,located_at,corona radiata
+unchanged,modify,mass
+calcification,located_at,cavernous segments
+unchanged,modify,opacified
+new major vascular territorial infarction,modify,major vascular territorial infarction
+laceration,located_at,vertex
+intact,modify,bones
+mildly,modify,limited
+extent,modify,hemorrhage
+moderate,modify,calcification
+dilated,modify,sulci
+mild,modify,atrophy
+remarkable,modify,orbits
+extensive,modify,calcifications
+similar in size,modify,ventricles
+blood products,located_at,ventricles
+obvious masses,modify,masses
+hypodensities,located_at,centrum semiovale
+stable in appearance,modify,ventricles
+bilaterally,modify,lenses
+large,modify,pneumocephalus
+widening,modify,sulci
+small,modify,contusion
+chronic,modify,defect
+improved,modify,effacement
+asymmetry,suggestive_of,congenital
+stable,modify,hydrocephalus
+hyperdensity,suggestive_of,blood products
+prominence,modify,cisterna magna
+opacification,located_at,sphenoid
+replaced,modify,lenses
+quite prominent,modify,ventricles
+intact,modify,sinuses
+opacification,located_at,mastoids
+bilaterally,modify,mastoids
+unchanged,modify,contour
+mild,modify,encephalomalacia
+increasing,modify,hemorrhage
+bilateral,modify,carotid siphon
+within normal limits,modify,bones
+hemorrhage,located_at,intracranial
+suboptimal,modify,examination
+not changed,modify,ventricles
+layering,modify,fluid
+new,modify,infarction
+unchanged,modify,degree
+blood products,located_at,fourth ventricle
+clear,modify,mastoid air spaces
+ex vacuo dilatation,located_at,atrium
+unchanged in size,modify,ventricles
+normal,modify,imaged paranasal sinuses
+stable,modify,fracture
+increase,modify,sulci
+intact,modify,lamina papyracea
+scattered,modify,opacified
+unchanged,modify,overall appearance
+hemorrhage,located_at,pons
+age,modify,ventricles
+proportionally prominent,modify,sulci
+unchanged,modify,compression
+quite prominent,modify,sulci
+patent,modify,sulci
+large,modify,territorial infarctionhemorrhage
+calcifications,located_at,dentate nuclei
+pneumocephalus,modify,decreased
+clipping,modify,aneurysm
+symmetric,modify,cisterns
+prominence,located_at,cisterns
+stable,modify,blood
+decrease,modify,pneumocephalus
+large,modify,territorial ischemic infarction
+intact,modify,zygomatic arches
+osteoma,located_at,outer table
+subtle,modify,hyperdensity
+stable,modify,meningioma
+chronic,modify,microvascular disease
+hypodensity,located_at,putamen
+unremarkable,modify,imaged orbits
+mild,modify,fluid
+partially visualized,modify,nasoenteric tube
+mild,modify,hypoattenuation
+stable,modify,fourth ventricle
+partially calcified,modify,meningioma
+hemorrhage,located_at,falx
+small,modify,edema
+some opacification,modify,opacification
+additional hemorrhage,modify,hemorrhage
+small,modify,sulci
+large,modify,territorial infarcts
+hypodensities,located_at,internal capsule
+mass,suggestive_of,meningioma
+asymmetry,modify,ventricles
+unchanged,modify,enlargement
+density,modify,hemorrhage
+prominent,modify,adenoids
+unremarkable,modify,sinuses
+more prominent,modify,ventricles
+stable,modify,calcifications
+overall configuration,modify,ventricles
+edema,located_at,intracranial
+tip,located_at,midline
+chronic,modify,hematoma
+right,modify,opacification
+acute major vascular territorial infarct,modify,major vascular territorial infarct
+redemonstration,modify,encephalomalacia
+unchanged,modify,hypoattenuation
+new,modify,major vascular territorial infarction
+proportionally prominent,modify,ventricles
+small,modify,blood products
+tiny,modify,hypodensity
+motion,located_at,skullbase
+tiny,modify,hemorrhage
+additional fracture,modify,fracture
+stable,modify,hyperdensity
+limited,modify,artifact
+lesion,suggestive_of,meningioma
+persistent,modify,fluid
+smaller,modify,hematoma
+abnormality,modify,ventricles
+unchanged,modify,orbits
+mild,modify,indentation
+fracture,located_at,foramen magnum
+stable,modify,lesion
+moderate,modify,microvascular ischemic disease
+ex vacuo dilatation,suggestive_of,encephalomalacia
+continued,modify,effacement
+normal,modify,attenuation
+ventriculomegaly,located_at,sulci
+acute,modify,pathology
+infarct,located_at,internal capsule
+moderate,modify,hydrocephalus
+clinical concern,modify,infarction
+moderately,modify,degraded
+hemorrhage,located_at,operative bed
+deep,modify,white matter hypodensities
+appearance,modify,brain
+abnormality,modify,sulci
+caliber,modify,cisterns
+unchanged,modify,findings
+effacement,located_at,atrium
+tiny,modify,osteoma
+larger,modify,sulci
+edema,located_at,lesion
+significant,modify,effacement
+resolved,modify,air
+configuration,modify,remaining ventricles
+prominence,suggestive_of,normal pressure hydrocephalus
+telephoned,modify,findings
+calcification,suggestive_of,meningioma
+calcification,modify,bilaterally
+calcifications,located_at,falx
+encephalomalacia,located_at,insula
+benign,modify,osteoma
+infarct,located_at,cerebellum
+marked,modify,prominence
+hypodensity,located_at,thalamus
+patent,modify,remaining basal cisterns
+marked,modify,ventriculomegaly
+opacification,located_at,several ethmoid air cells
+growing,modify,hemorrhage
+infarct,located_at,putamen
+normal,modify,parapharyngeal soft tissues
+mild,modify,crowding
+resected,modify,lenses
+size,modify,remaining ventricles
+prominence,located_at,sylvian fissures
+moderate,modify,hematoma
+encephalomalacia,located_at,right frontal and temporal lobes
+intact,modify,pterygoid plates
+hypodensity,modify,bilaterally
+interval,modify,territorial infarction
+encephalomalacia,located_at,cerebellum
+confluent,modify,hypodensities
+deep,modify,hypodensities
+moderate,modify,edema
+no change,modify,appearance
+chronic,modify,microvascular angiopathy
+scalp,located_at,vertex
+chronic,modify,inspissated secretions
+minimal,modify,blood products
+not fully imaged,modify,orbits
+decrease,modify,size
+mild,modify,hyperostosis frontalis
+calcified,modify,cavernous segments
+mild,modify,hemorrhage
+mild,modify,proptosis
+remains effaced,modify,effaced
+bilaterally,modify,fluid
+subcortical,located_at,white matter hypodensities
+no change,modify,configuration
+unchanged,modify,asymmetry
+unchanged,modify,fourth ventricle
+normal,modify,remaining ventricles
+unchanged,modify,shift
+absent,modify,lenses
+tip,modify,catheter
+unremarkable,modify,remaining paranasal sinuses
+unchanged,modify,lucency
+partially calcified meningioma,modify,meningioma
+unremarkable,modify,partially imaged orbits
+increased,modify,opacification
+hemorrhage,located_at,tract
+overall appearance,modify,brain
+abnormality,modify,cisterns
+hemorrhage,modify,bilaterally
+chronic,modify,microvascular infarctions
+size,modify,collection
+extension,modify,hemorrhage
+motion,modify,examination
+encephalomalacia,located_at,left frontal and temporal lobes
+decreased,modify,degree
+hemorrhage,located_at,septum pellucidum
+clinical concern,modify,ischemia
+abnormality,modify,size
+abnormality,modify,contour
+hypodensity,suggestive_of,contusion
+subacute,modify,hematoma
+hypodensity,located_at,midbrain
+unchanged,modify,position
+minimal,modify,edema
+smaller,modify,ventricles
+subcortical,modify,hypodensities
+ventricles,modify,dilated
+pneumocephalus,located_at,falx
+stable in appearance,modify,sulci
+not significantly changed,modify,hypodensity
+not significantly changed,modify,size
+empty,modify,sella
+prominent,modify,sylvian fissures
+normal,modify,morphology
+normal,modify,subarachnoid spaces
+underlying,modify,fracture
+similar in configuration,modify,ventricles
+stable,modify,enlargement
+intact,modify,cribriform plates
+unchanged,modify,lipoma
+large,modify,territorial infarctions
+mild,modify,hyperostosis
+infarcts,located_at,pons
+evolving,modify,contusion
+hematoma,located_at,scalp
+prominent,modify,hypodensity
+shift,located_at,septum pellucidum
+resolution,modify,edema
+globally prominent,modify,sulci
+normal,modify,sulcal spaces
+persistent,modify,hyperdensity
+stable,modify,atrophy
+laceration,located_at,forehead
+minimal,modify,hypodensity
+edema,suggestive_of,infarction
+minimal,modify,calcification
+calcifications,located_at,internal carotid artery
+evolving,modify,hypodensity
+thickening,located_at,falx
+unchanged in appearance,modify,ventricles
+hypodensity,located_at,globus pallidus
+unchanged,modify,subdural
+hyperdensity,suggestive_of,thrombus
+acute,modify,territorial ischemic infarction
+acute,modify,obvious fracture
+persistent,modify,prominence
+acute,modify,major vascular territory infarct
+terminates,modify,ventriculoperitoneal shunt catheter
+hyperdensity,located_at,tentorium
+unchanged,modify,measures
+appropriate for age,modify,ventricles
+sequela,modify,microvascular infarction
+increased in size,modify,ventricles
+pneumocephalus,modify,bilaterally
+catheter,located_at,foramen
+persistent,modify,dilation
+size,modify,fourth ventricle
+more prominent,modify,sulci
+stable,modify,white matter hypodensity
+increase,modify,size
+old,modify,fracture
+hemorrhage,located_at,corpus callosum
+expected,modify,pneumocephalus
+configuration,modify,sulcal spaces
+hemorrhage,located_at,intraparenchymal
+improved,modify,pneumocephalus
+configuration,modify,subarachnoid spaces
+shift,located_at,usually midline structures
+caliber,modify,sulcal spaces
+chronic,modify,microvascular changes
+new,modify,major vascular territory infarction
+acute,modify,malalignment
+hemorrhagic transformation,located_at,infarct
+not significantly changed,modify,edema
+hypodense,modify,collection
+encephalomalacia,located_at,right frontal and parietal lobes
+moderate,modify,carotid siphon calcification
+debris,suggestive_of,cerumen
+pneumocephalus,located_at,vertex
+size,modify,subarachnoid spaces
+unchanged,modify,extent
+stable,modify,blood products
+unchanged,modify,defect
+worsening,modify,hemorrhage
+additional lesions,modify,lesions
+large,modify,sulci
+terminates,located_at,foramen
+measures,modify,lesion
+new major vascular territorial infarct,modify,major vascular territorial infarct
+enlarged,modify,cisterns
+sclerosis,located_at,walls
+diffuse,modify,hypodensities
+fluid,located_at,sphenoid
+small,modify,cavum septum pellucidum
+terminates,modify,ventriculoperitoneal shunt
+visualized portions,modify,orbits
+improved,modify,opacification
+not significantly changed,modify,encephalomalacia
+clear,modify,maxillary
+degree,modify,pneumocephalus
+calcifications,located_at,internal carotid
+calcifications,located_at,vertebral
+dilatation,suggestive_of,entrapment
+hyperdensity,suggestive_of,cavernoma
+bilaterally,modify,frontoethmoidal recesses
+moderate,modify,effacement
+hemorrhage,located_at,right
+unremarkable,modify,thyroid
+moderate,modify,fluid
+persistent,modify,compression
+normal,modify,csf spaces
+unremarkable,modify,globe
+acute,modify,dislocation
+hemorrhage,modify,measures
+lucencies,located_at,subcortical
+effacement,located_at,left lateral and third ventricles
+sequela,modify,hypodensities
+not significantly changed,modify,degree
+patent,modify,ostiomeatal units
+hyperdensity,suggestive_of,meningioma
+appearance,modify,hemorrhage
+ventriculoperitoneal shunt,located_at,foramen
+ventriculoperitoneal shunt catheter,located_at,septum pellucidum
+fluid,suggestive_of,sinusitis
+moderate,modify,centrum semiovale
+similar in configuration,modify,sulci
+hypodensity,suggestive_of,hemorrhage
+ventricles,modify,enlarged
+tiny,modify,pneumocephalus
+nonspecific,modify,white matter hypodensities
+unchanged,modify,near complete opacification
+edema,suggestive_of,metastasis
+dilatation,located_at,fourth ventricle
+minimal,modify,hemorrhage
+unchanged,modify,sebaceous cyst
+shift,located_at,left
+mild,modify,herniation
+infarct,located_at,insula
+mild,modify,swelling
+chronic,modify,atrophy
+hypoattenuation,suggestive_of,microvascular ischemic changes
+layering,modify,pneumocephalus
+extensive,modify,subarachnoid
+hemorrhage,located_at,midbrain
+sequela,suggestive_of,microvascular ischemic disease
+globally prominent,modify,ventricles
+hypodensity,located_at,insula
+resolving,modify,pneumocephalus
+hemorrhage,located_at,lesion
+deformity,suggestive_of,fracture
+bilaterally,modify,thalami
+size,modify,lesion
+stable,modify,fluid
+decreased,modify,blood
+secretions,suggestive_of,intubation
+worsening,modify,edema
+opacification,suggestive_of,sinusitis
+lucencies,located_at,periventricular
+limited,modify,evaluation
+hypodensities,located_at,thalami
+prominence,suggestive_of,age related atrophy
+partially calcified lesion,suggestive_of,meningioma
+hemorrhage,located_at,subarachnoid
+clear,modify,orbits
+size,modify,orbits
+white matter hypodensity,suggestive_of,edema
+not significantly changed,modify,sulci
+hematoma,located_at,forehead
+herniation,located_at,brain
+normal in attenuation,modify,white matter
+normal in appearance,modify,parapharyngeal soft tissues
+unchanged,modify,contusions
+territorial infarction,located_at,intracranial
+artifactual,modify,hypodensity
+ex vacuo dilatation,located_at,fourth ventricle
+encephalomalacia,located_at,vertex
+decompressed,modify,ventricles
+fluid,modify,bilaterally
+hyperdensity,suggestive_of,mineralization
+moderate,modify,atrophy
+patchy,modify,opacification
+small,modify,subdural
+old,modify,infarction
+widened,modify,ventricles
+artifact,located_at,coils
+intact,modify,lens
+contour,modify,cisterns
+persistent,modify,hydrocephalus
+unchanged from prior,modify,sulci
+calcification,located_at,dura
+cranioplasty,modify,resection
+evidence of fracture,suggestive_of,fracture
+acute,modify,herniation
+decreased,modify,edema
+evacuation,located_at,hematoma
+mild,modify,deformity
+large,modify,fracture
+calcification,located_at,tentorium
+terminating,located_at,foramen
+disease,located_at,ethmoid
+tip,located_at,foramina
+mild,modify,ventricular
+resolved,modify,blood
+hemorrhage,suggestive_of,trauma
+collection,located_at,inner table
+acute,modify,infarctionhemorrhage
+extensive,modify,hematoma
+not significantly changed,modify,effacement
+small,modify,calcifications
+resection,located_at,glioblastoma
+proportionally enlarged,modify,ventricles
+proportionally enlarged,modify,sulci
+bilateral,modify,basal ganglial calcifications
+scattered,modify,hypodensities
+hyperdensity,located_at,vertex
+hypodensity,suggestive_of,ischemia
+acute,modify,thrombus
+severe,modify,calcifications
+pneumocephalus,located_at,operative bed
+obvious hemorrhage,modify,hemorrhage
+edema,located_at,scalp
+mild,modify,enlargement
+severe,modify,hydrocephalus
+decreased,modify,effacement
+compression,located_at,ventricles
+severe,modify,hypodensities
+pneumocephalus,located_at,ventricles
+larger,modify,hematoma
+bilaterally,modify,calcification
+redistribution,modify,blood products
+small,modify,air
+unchanged in position,modify,ventriculoperitoneal shunt catheter
+limited,modify,hemorrhage
+persistent,modify,hemorrhage
+bilateral,modify,temporomandibular joint
+measures,modify,hemorrhage
+stable,modify,appearance
+bilaterally,modify,temporomandibular joints
+bilaterally,modify,icas
+hypodensity,suggestive_of,artifact
+centrum semiovale hypodensities,located_at,periventricular
+prominence,modify,bilaterally
+prominent,modify,sulcal spaces
+large,modify,ventricles
+lesion,modify,measures
+large,modify,meningioma
+normal,modify,vessels
+change,modify,wet read
+hypodensities,located_at,lentiform nuclei
+resolved,modify,fluid
+secretions,located_at,oropharynx
+improvement,modify,pneumocephalus
+unchanged,modify,gliosis
+hematoma,suggestive_of,laceration
+unchanged,modify,crowding
+age related,modify,prominent
+collection,located_at,vertex
+right trans frontal ventriculostomy catheter,located_at,foramen
+effacement,located_at,right lateral and third ventricles
+poorly pneumatized,modify,mastoids
+significant,modify,opacification
+chronic,modify,periostitis
+blood products,located_at,tentorium
+blood,located_at,tentorium
+abnormality,located_at,calvarium
+effacement,located_at,body
+new,modify,hydrocephalus
+broad,modify,differential
+patent,modify,quadrigeminal plate
+small,modify,submucosal retention cyst
+edema,suggestive_of,mass
+prominence,modify,fissures
+other hemorrhage,modify,hemorrhage
+edema,located_at,white matter
+increased,modify,pneumocephalus
+hyperdensity,suggestive_of,artifactual
+large,modify,aneurysm
+mild,modify,centrum semiovale
+calcifications,located_at,tentorium
+moderate,modify,thickening
+old,modify,lacune
+large,modify,major vascular territorial infarction
+slight,modify,asymmetry
+thinning,modify,outer table
+acute,modify,bony
+decreased,modify,blood products
+acute,modify,territorial vascular infarct
+hypodensity,located_at,brainstem
+tip,located_at,level of the third ventricle
+unchanged,modify,thickening
+unchanged,modify,herniation
+unchanged,modify,underpneumatized
+not effaced,modify,effaced
+ventriculomegaly,suggestive_of,hydrocephalus
+clear,modify,inner ear cavities
+opacification,suggestive_of,inflammation
+tiny,modify,lacune
+essentially unchanged,modify,ventricles
+ventricles,suggestive_of,normal pressure hydrocephalus
+expansion,located_at,sella
+encephalomalacia,located_at,corona radiata
+enhance,modify,major dural venous sinuses
+slight,modify,opacification
+unchanged,modify,tip
+effacement,located_at,gyri
+prominent,modify,perivascular spaces
+unchanged in position,modify,ventriculoperitoneal shunt
+unchanged,modify,calvarium
+hematoma,located_at,orbit
+encephalomalacia,suggestive_of,trauma
+persistent,modify,enlargement
+decreased,modify,subdural
+hemorrhage,located_at,foramen magnum
+hemorrhage,located_at,intraventricular
+small,modify,fracture
+compressed,modify,fourth ventricle
+hypoattenuation,suggestive_of,edema
+clinical concern,modify,stroke
+redemonstration,modify,hypodensity
+hemorrhage,suggestive_of,fracture
+stable,modify,osteoma
+partially visualized orbits,modify,orbits
+unchanged,modify,burr hole
+unchanged,modify,remaining ventricles
+remarkable,modify,globes
+large,modify,cisterna magna
+abutting,modify,septum pellucidum
+stable,modify,deformity
+acute to subacute,modify,infarct
+severe,modify,encephalomalacia
+appearance,modify,lesion
+unchanged,modify,catheter
+unchanged,modify,polyp
+findings,modify,telephoned
+similar in appearance,modify,ventricles
+unchanged,modify,examination
+opacification,located_at,frontoethmoidal recesses
+opacification,located_at,sinuses
+blood products,located_at,falx
+unremarkable,modify,included osseous structures
+prominent,modify,calcifications
+effaced,modify,quadrigeminal plate cistern
+comminuted,modify,fracture
+well defined,modify,white matter interface
+unremarkable,modify,partially imaged globes
+mild,modify,microvascular ischemic changes
+increased,modify,fluid
+opacification,located_at,several ethmoidal air cells
+fracture,located_at,lamina papyracea
+fractures,located_at,zygomatic arch
+hyperdense,modify,lesion
+subdural,located_at,falx
+prominence,modify,csf spaces
+thickened,modify,calvarium
+thickening,modify,mucosa
+mass,located_at,sella
+opacification,suggestive_of,mastoiditis
+resection,located_at,tumor
+partially imaged,modify,nasoenteric catheter
+partially calcified mass,suggestive_of,meningioma
+effacement,suggestive_of,edema
+acute,modify,evidence of fracture
+fractures,located_at,facial
+hyperdense,suggestive_of,thrombosis
+increasing,modify,edema
+clear,modify,inner ears
+intraventricular spread,modify,hemorrhagic products
+symmetric in size,modify,symmetric
+expanded,modify,sella
+microvascular ischemic changes,located_at,periventricular white matter
+fluid,located_at,oropharynx
+unchanged in appearance,modify,sulci
+edema,located_at,fourth ventricle
+irregularity,suggestive_of,fracture
+bilaterally,modify,globus pallidus
+hyperdensity,suggestive_of,blood
+increased,modify,lesion
+symmetric,modify,symmetric in size
+partially limited,modify,examination
+unchanged,modify,caliber
+unchanged,modify,sclerosis
+hypodensity,suggestive_of,gliosis
+enhance,modify,vessels
+essentially clear,modify,clear
+hyperdense,modify,hematoma
+essentially clear,modify,included paranasal sinuses
+ng tube,modify,partially imaged
+decreased in size,modify,hematoma
+mild,modify,narrowing
+disproportionately enlarged,modify,ventricles
+increased,modify,effacement
+artifact,modify,motion
+artifactual,modify,hyperdensity
+infarcts,located_at,lentiform nucleus
+dolichoectasia,located_at,vertebrobasilar system
+artifactual,modify,volume averaging
+effacement,modify,right lateral and third ventricle
+intact,modify,ossicles
+intact,modify,extracalvarial soft tissues
+measuring,modify,hemorrhage
+extent,modify,edema
+removed,modify,lenses
+stable,modify,collection
+diffuse,modify,ventriculomegaly
+opacified,modify,nasopharynx
+acute,modify,stroke
+acute,modify,obvious acute fracture
+evolution,modify,hemorrhage
+prominent,modify,fourth ventricle
+subtle,modify,fracture
+no change,modify,extent
+encephalomalacia,suggestive_of,contusion
+slight,modify,ex vacuo dilatation
+pneumocephalus,located_at,right
+right,modify,fluid
+calcification,suggestive_of,cavernoma
+displaced,modify,fourth ventricle
+normal in appearance,modify,cisterns
+hemorrhage,located_at,infarct
+pneumocephalus,suggestive_of,fracture
+hemorrhage,suggestive_of,diffuse axonal injury
+opacified,modify,mastoids
+small,modify,sebaceous cyst
+opacification,located_at,frontoethmoidal recess
+worsened,modify,opacification
+tiny,modify,meningioma
+encephalomalacia,located_at,region
+hemorrhage,located_at,corona radiata
+hemorrhage,located_at,globus pallidus
+catheter,located_at,septum pellucidum
+resection,located_at,avm
+unchanged,modify,bones
+large,modify,territorial vascular infarct
+decreased,modify,fluid
+no change,modify,hemorrhage
+hyperdensity,located_at,foramen
+unchanged,modify,craniotomy
+blood,located_at,sinus
+prominence,modify,fourth ventricle
+persistent,modify,blood
+hematoma,located_at,supraorbital
+evolution,modify,infarction
+abnormalities,located_at,skull
+size,modify,mass
+infarction,located_at,brain
+hyperdensity,suggestive_of,contusion
+ossific density,suggestive_of,osteoma
+chronic appearing,modify,infarct
+measures,modify,collection
+heterogeneous,modify,collection
+nonspecific,modify,opacification
+chronic,modify,microvascular ischemic
+layering,located_at,tentorium
+other mass,modify,mass
+limited,modify,mass
+hemorrhage,located_at,midline
+calcifications,located_at,carotid
+hypodensity,located_at,caudate
+large,modify,hemorrhagic transformation
+lenses,modify,replaced
+hypodensity,located_at,region
+opacification,suggestive_of,hemorrhage
+fracture,located_at,occiput
+near completely opacified,modify,opacified
+acute,modify,major vascular territorial infarctions
+hematoma,located_at,frontal
+remains opacified,modify,opacified
+decreased,modify,size
+resolved,modify,subdural
+confluent areas of low attenuation,located_at,periventricular white matter
+hypoattenuation,suggestive_of,infarction
+hypodensity,suggestive_of,artifactual
+crowding,located_at,foramina magnum
+new,modify,major vascular territorial infarct
+preserved,modify,cisterns
+increased in size,modify,increased
+terminates,located_at,midline
+cavernous portions,located_at,carotids
+single,modify,opacified
+stable,modify,lacune
+not significantly changed,modify,appearance
+small,modify,cerumen
+stable,modify,brain
+proportional,modify,prominence
+unremarkable,modify,temporomandibular joints
+volume,modify,pneumocephalus
+opacified,located_at,right
+partially empty,modify,sella
+effaced,modify,ventricles
+increased,modify,degree
+deviation,located_at,left
+increased,modify,increased in size
+normal,modify,scalp
+worsening,modify,effacement
+not significantly changed,modify,dilatation
+hemorrhage,located_at,interhemispheric fissure
+opacification,suggestive_of,otomastoiditis
+improved,modify,edema
+unchanged,modify,ventriculoperitoneal shunt
+preservation,modify,white matter differentiation
+opacification,modify,left
+normal,modify,extraaxial spaces
+unchanged from prior,modify,ventricles
+hyperdense,modify,mass
+hypodensities,located_at,deepwhite matter
+decreased,modify,decreased in size
+overall size,modify,hematoma
+unremarkable,modify,visualized portions
+partially imaged,modify,nasoenteric tube
+burr hole,located_at,vertex
+calcification,located_at,inner table
+evolving,modify,edema
+resolved,modify,subarachnoid
+stable,modify,calvarium
+not significantly changed,modify,compression
+calcifications,modify,bilaterally
+configuration,modify,sulcal
+tip,located_at,medial aspect
+agenesis,located_at,corpus callosum
+hyperdensity,located_at,pons
+essentially normal,modify,ventricles
+fluid,located_at,sinuses
+persistent,modify,ex vacuo dilatation
+mild,modify,white matter hypodensity
+bilaterally,modify,cerebellum
+unchanged,modify,microvascular ischemic disease
+hyperdensity,located_at,cerebellum
+normal appearing,modify,sulci
+mild,modify,perihemorrhagic edema
+recent,modify,territorial infarct
+increased,modify,hypodensity
+pneumocephalus,modify,anteriorly
+mild,modify,opacity
+infarct,located_at,thalamus
+infarcts,located_at,midbrain
+near complete opacification,modify,bilaterally
+obliteration,modify,fourth ventricle
+white matter hypodensity,located_at,corona radiata
+dilatation,located_at,atrium
+acute,modify,territorial infarcts
+hypodensity,located_at,vertex
+craniotomy,located_at,evacuation
+stable,modify,lipoma
+stable,modify,shift
+opacification,located_at,ethmoidal
+resection,located_at,colloid cyst
+limited by motion,modify,motion
+hematoma,located_at,retrobulbar
+large,modify,cephalohematoma
+severe,modify,opacification
+acute,modify,major vascular territorial infract
+tiny,modify,calcification
+decreased in size,modify,decreased
+fluid,located_at,ethmoid
+resultant,modify,ex vacuo dilatation
+fracture,located_at,clivus
+minimal,modify,ex vacuo dilatation
+appropriate for age,modify,sulci
+right,modify,cerebellum
+resolved,modify,opacification
+effacement,located_at,quadrigeminal plate
+hemorrhage,located_at,thalamus
+colloid cyst,located_at,foramen
+patent,modify,major dural venous sinuses
+left,modify,cerebellum
+new,modify,lesion
+small in size,modify,ventricles
+uncertain,modify,etiology
+fluid,suggestive_of,blood
+scattered,modify,white matter hypodensities
+fluid,located_at,right
+prominence,suggestive_of,entrapment
+improvement,modify,effacement
+prominent,suggestive_of,ex vacuo dilatation
+intact,modify,ventricles
+deviation,located_at,right
+ventriculoperitoneal shunt,located_at,septum pellucidum
+hemorrhage,located_at,catheter
+new,modify,finding
+acute,modify,shift
+hyperdensities,suggestive_of,calcifications
+confluent,modify,centrum semiovale
+resorption,modify,blood products
+obvious mass,modify,mass
+lesion,located_at,corpus callosum
+chronic,modify,blowout fracture
+mild,modify,ex vacuo enlargement
+craniotomy,located_at,resection
+dilatation,suggestive_of,normal pressure hydrocephalus
+right,modify,collection
+sequela,modify,infection
+sulci,located_at,right
+left,modify,ventricles
+mild,modify,stranding
+fluid,located_at,mastoids
+absent,modify,septum pellucidum
+hemorrhage,located_at,sulci
+unchanged,modify,morphology
+etiology,modify,hemorrhage
+hypoattenuation,located_at,white matter
+calcification,located_at,v4 segment
+unchanged,modify,density
+laceration,located_at,scalp
+decreased,modify,collection
+mild,modify,anterolisthesis
+edema,located_at,cerebellum
+small,modify,fourth ventricle
+bilaterally,modify,centrum semiovale
+intact,modify,mandible
+symmetric,modify,hypodensity
+opacification,suggestive_of,inflammatory
+mild,modify,cerumen
+stable,modify,morphology
+limited by motion,modify,limited
+severe,modify,effacement
+stable,modify,subdural
+remain symmetric,modify,symmetric
+density,modify,blood products
+obvious acute fracture,modify,fracture
+density,modify,collection
+obstruction,located_at,foramen
+enlarged,modify,sella
+bilateral,modify,proptosis
+normal,modify,remaining sulci
+remain opacified,modify,opacified
+ng tube,modify,partially visualized
+minimal,modify,calcifications
+worsening,modify,ventriculomegaly
+tonsils,located_at,foramen magnum
+unremarkable,modify,remaining brain parenchyma
+not significantly changed,modify,opacification
+findings,located_at,telephoneon
+symmetric,modify,symmetric in configuration
+clear,modify,sinus air spaces
+clear,modify,eac
+persistent,modify,near complete opacification
+partially effaced,located_at,fourth ventricle
+depressed,modify,fracture
+obvious infarct,modify,infarct
+patent,modify,vessels
+partially visualized,modify,ett
+unchanged in size,modify,sulci
+extensive,modify,swelling
+stable in size,modify,sulci
+clear,modify,themastoid air cells
+hypodensities,located_at,centrum semiovale hypodensities
+hematoma,located_at,inner table
+acute,modify,hemorrhagic transformation
+acute,modify,hypodensity
+chronic,modify,white matter changes
+acute,modify,atrophy
+narrowing,located_at,fourth ventricle
+resolved,modify,hyperdensity
+partially empty sella,modify,sella
+acute,modify,subarachnoid
+limited,modify,metastases
+asymmetric,modify,cisterna magna
+partially opacified,modify,ethmoids
+unremarkable in appearance,modify,orbits
+hemorrhage,located_at,brainstem
+effacement,located_at,sylvian fissure
+thickening,located_at,dura
+large,modify,polyp
+ventriculoperitoneal shunt catheter,located_at,foramen
+asymmetry,suggestive_of,developmental
+dense,modify,calcifications
+chronic,modify,blood products
+size,modify,globes
+hemorrhage,located_at,atrium
+opacification,suggestive_of,blood products
+significant,modify,hydrocephalus
+significant,modify,evidence of herniation
+left,modify,fluid
+symmetric in configuration,modify,symmetric
+microvascular ischemic disease,located_at,white matter
+calcification,located_at,carotid
+coiling,located_at,right pcom aneurysm
+unchanged,modify,subarachnoid
+elongated,modify,globes
+left,modify,hemorrhage
+not significantly changed,modify,ventriculomegaly
+limited,modify,limited by motion
+calcification,located_at,choroid plexus
+resolving,modify,hematoma
+isodense,modify,gray matter
+lucency,suggestive_of,venous lake
+location,modify,hemorrhage
+enlargement,suggestive_of,entrapment
+incidentally noted,modify,cisterna magna
+meningioma,located_at,vertex
+hemorrhage,located_at,lentiform nucleus
+heavily calcified,modify,meningioma
+prominence,modify,gyri
+heterogeneous,modify,calvarium
+hematoma,located_at,subgaleal
+prominence,modify,adenoids
+no change,modify,edema
+encephalomalacia,suggestive_of,hemorrhage
+acute,modify,territorial infarctions
+meningioma,located_at,inner table
+encephalomalacia,located_at,right parietal and occipital lobes
+configuration,modify,unchanged
+sequela,suggestive_of,infarct
+osteoma,located_at,inner table
+left,modify,collection
+stable,modify,caliber
+volume,modify,hemorrhage
+decreased,modify,volume
+chronic,modify,calcification
+similar in appearance,modify,sulci
+hypodense,modify,infarct
+blood,located_at,falx
+microvascular infarction,located_at,periventricular white matter
+evacuation,located_at,previous subdural hematoma
+chronic,modify,white matter microangiopathy
+stably enlarged,modify,ventricles
+abnormality,located_at,skull
+microscopic quantities,modify,blood
+herniation,located_at,inferior rectus muscle
+not significantly changed,modify,extent
+edema,located_at,corpus callosum
+increased,modify,blood
+normal,modify,alignment
+enlarged,suggestive_of,hydrocephalus
+edema,located_at,vermis
+redemonstration,modify,hemorrhage
+normal,modify,lens
+dilated,modify,atrium
+herniation,located_at,medial rectus muscle
+other herniation,modify,herniation
+hemorrhagic transformation,located_at,lateral aspect
+unremarkable,modify,included orbits
+edema,suggestive_of,contusion
+progressed,modify,opacification
+confluent areas of low density,located_at,subcortical
+mostly hypodense,modify,hypodense
+confluent areas of low density,located_at,periventricular white matter
+hypoattenuation,located_at,corona radiata
+somewhat limited,modify,evaluation
+unremarkable,modify,extra calvarial soft tissues
+significant,modify,abnormalities
+obvious infarction,modify,infarction
+anterolisthesis,suggestive_of,degenerative
+calcified,modify,sebaceous cyst
+thickening,modify,walls
+midline,modify,septum pellucidum
+patent,modify,foramina magnum
+small,modify,exostosis
+decreased in density,modify,hemorrhage
+prominent,modify,calcification
+clear,modify,internal auditory canals
+fracture,located_at,right
+hypodensity,located_at,corpus callosum
+increased,modify,hydrocephalus
+largely unchanged,modify,ventricles
+hypodensity,located_at,medial aspect
+right,modify,hemorrhage
+confluent areas of low attenuation,located_at,subcortical
+age related,modify,ventricles
+improved,modify,fluid
+relatively unchanged,modify,ventricles
+moderate to severe,modify,opacification
+scalloping,modify,inner table
+decrease,modify,hematoma
+sulci,located_at,convexity
+prominent,modify,retrocerebellar csf space
+hemorrhage,suggestive_of,hypertension
+hemorrhage,located_at,putamen
+hemorrhage,located_at,sylvian fissure
+gyriform hyperdensity,suggestive_of,pseudolaminar necrosis
+terminates,located_at,foramina
+lipoma,located_at,falx
+filled,modify,blood
+sclerosis,located_at,calvarium
+size,modify,remaining sulci
+fracture,located_at,skullbase
+fracture,located_at,c1
+enlargement,suggestive_of,atrophy
+obliterated,modify,fourth ventricle
+catheter,located_at,ventricles
+significant,modify,encephalomalacia
+unclear,modify,etiology
+stable,modify,overall appearance
+unchanged,modify,right basal ganglionic hemorrhage
+larger,modify,left
+bilaterally,modify,white matter hypodensities
+dural based lesion,suggestive_of,meningioma
+severe,modify,carotid siphon calcifications
+unchanged,modify,right to left midline shift
+bilaterally,modify,tentorium
+trace,modify,pneumocephalus
+unchanged,modify,finding
+tiny,modify,lipoma
+pneumocephalus,located_at,brain
+bilaterally,modify,lacunes
+mild,modify,hyperdensity
+larger,modify,right
+unchanged,modify,phthisis bulbi
+differential considerations,modify,infectious
+encephalomalacia,located_at,left parietal and temporal lobes
+encephalomalacia,located_at,left parietal and occipital lobes
+stable,modify,contusion
+bilaterally,modify,pneumatized
+no change,modify,sulci
+benign,modify,hemangioma
+unremarkable,modify,nasopharynx
+morphology,modify,cisterns
+essentially clear,modify,remaining paranasal sinuses
+bilaterally,modify,corona radiata
+diffusely,modify,ventricles
+hematoma,located_at,internal capsule
+normally,modify,vessels
+fullness,located_at,foramen magnum
+white matter hypodensities,suggestive_of,microvascular ischemic changes
+metastases,located_at,brain
+bilaterally,modify,sylvian fissures
+unchanged,modify,hyperostosis frontalis interna
+pneumocephalus,located_at,inner table
+mildly,modify,motion
+meningioma,located_at,planum sphenoidale
+unchanged,modify,enlarged
+hypodensity,located_at,lesion
+infarct,located_at,left precentral and postcentral gyri
+unchanged,modify,globes
+clamping,located_at,evd
+hypodensities,located_at,brain
+acute,modify,suggestion of mass
+acute,modify,intracranial hemrorhage
+small,modify,concha bullosa
+mild,modify,rightward septal deviation
+intact,modify,shunt
+unchanged,modify,partially opacified
+pneumocephalus,located_at,bifrontal
+evolution,modify,hypodensity
+normal in appearance,modify,extraaxial spaces
+recent,modify,edema
+mild,modify,flattening
+unchanged,modify,aneurysm
+infarction,located_at,parietal
+wallerian degeneration,located_at,left corticospinal tract
+hyperdensity,located_at,inner table
+fluid,located_at,operative bed
+hemorrhage,located_at,region
+bilateral,modify,ethmoid
+left,modify,opacified
+infarction,located_at,globus pallidus
+normal appearing,modify,ventricles
+left,modify,hypodensity
+infarction,located_at,superior division
+white matter hypodensity,located_at,internal capsule
+dilated,suggestive_of,hydrocephalus
+opacification,located_at,nasal passages
+white matter hypodensities,suggestive_of,microangiopathy
+dilated,located_at,fourth ventricle
+fullness,located_at,fossae
+bilateral,modify,globus pallidus calcification
+fluid,suggestive_of,hemorrhage
+increased,modify,ventriculomegaly
+bilateral,modify,maxillary
+hemorrhage,located_at,metastasis
+more effaced,modify,effaced
+opacification,suggestive_of,blood
+lesion,suggestive_of,hemorrhage
+somewhat limited,modify,examination
+calcification,located_at,cerebellum
+acute,modify,osseous
+acute,modify,calcification
+septum cavum pellucidum,modify,septum cavum pellucidum et vergae
+hypodensities,suggestive_of,transependymal flow
+hypodensities,suggestive_of,microvascular disease
+age related,modify,atrophy
+hyperdense,modify,collection
+clear,modify,tympanic cavities
+clear,modify,partially visualized sinuses
+hyperdense,suggestive_of,inspissated secretions
+significantly limited,modify,exam
+high,modify,mass
+hyperdensity,located_at,fourth ventricle
+persistent,modify,asymmetry
+hyperdensity,located_at,septum pellucidum
+persistent,modify,perihemorrhagic edema
+acute,modify,intracranial
+acute,modify,mastoiditis
+acute,modify,change
+persistent,modify,hypoattenuation
+artifacts,located_at,leads
+acute,modify,intrathoracic process
+symmetric,modify,symmetric in appearance
+moderate to severe,modify,ventriculomegaly
+size,modify,subdural
+prominence,suggestive_of,hygromas
+supraclinoid portions,located_at,internal carotid arteries
+fracture,located_at,jugular foramen
+fracture,located_at,lambdoid suture
+prominence,modify,extraaxial spaces
+moderate to severe,modify,calcifications
+foci,modify,hemorrhage
+size,modify,pneumocephalus
+collection,located_at,right
+prominence,located_at,vertex
+masses,located_at,brain
+near complete opacification,located_at,nasopharynx
+effacement,located_at,right
+defect,located_at,outer table
+blood,located_at,nasopharynx
+opacified,suggestive_of,intubation
+overlying,modify,hematoma
+edema,located_at,vertex
+normal,modify,mandible
+edema,located_at,tract
+not significantly changed,modify,subdural
+edema,located_at,left frontal and temporal lobes
+configuration,modify,remaining sulci
+decreased,modify,attenuation
+configuration,modify,fourth ventricle
+unremarkable,modify,craniocervical junction regions
+effacement,modify,bilaterally
+edema,located_at,brainstem
+visualized aspect,modify,orbits
+not significantly changed,modify,overall appearance
+unremarkable,modify,orbital
+increased,modify,extent
+gas,suggestive_of,laceration
+hemorrhage,located_at,left
+left,modify,concha bullosa
+chronic,modify,white matter ischemia
+chronic,modify,micro hemorrhages
+ventriculoperitoneal shunt,located_at,midline
+blood,located_at,tract
+clinically warranted,modify,mri
+blood,located_at,aqueduct
+effacement,modify,left frontal and parietal sulci
+unremarkable,modify,sphenoid
+unchanged,modify,hyperostosis frontalis
+unchanged,modify,thickness
+unchanged,modify,carotid siphon calcifications
+unchanged,modify,narrowing
+hyperdensity,suggestive_of,choroid plexus
+unchanged,modify,foci
+unchanged,modify,sella
+unchanged,modify,dolichoectasia
+tiny,modify,hyperdensity
+stable,modify,near complete opacification
+unchanged,modify,swelling
+normal in appearance,modify,globes
+calcification,located_at,anterior and posterior circulations
+hyperdensity,suggestive_of,colloid cyst
+unchanged,modify,cavum septum pellucidum
+unchanged,modify,effaced
+encephalomalacia,located_at,left frontal and parietal lobes
+normal,modify,calcifications
+secondary,modify,ex vacuo dilatation
+blood,located_at,sulci
+not significantly changed,modify,blood products
+encephalomalacia,located_at,left occipital and parietal lobes
+dilatation,suggestive_of,hydrocephalus
+ventricles,suggestive_of,ex vacuo dilatation
+stable,modify,stable in appearance
+stable,modify,gliosis
+dilation,suggestive_of,atrophy
+stable,modify,crowding
+widely patent,modify,fourth ventricle
+partially opacified,modify,left
+degraded,modify,examination
+near complete,modify,opacification
+minimal,modify,concentric mucosal thickening
+pneumocephalus,modify,left
+moderate,modify,ventricular
+hypodense,modify,mass
+resection,located_at,lesion
+resection,located_at,arteriovenous malformation
+hemorrhage,located_at,operative site
+significant,modify,prominence
+resolved,modify,effacement
+small,modify,locule of air
+improved,modify,hydrocephalus
+hemorrhage,located_at,intracranially
+essentially unchanged,modify,sulci
+attenuated,suggestive_of,cataracts
+right,modify,septum pellucidum
+attenuated,modify,lenses
+multiple foci of low density,located_at,periventricular white matter
+underlying,modify,territorial infarction
+prominent,suggestive_of,age related involution
+small,modify,mass
+preserved,modify,quadrigeminal plate cistern
+air,located_at,sella
+minimal,modify,encephalomalacia
+preserved,modify,fourth ventricle
+redistribution,modify,hemorrhage
+hyperostosis,located_at,calvarium
+preservation,modify,grey white matter differentiation
+bilaterally,modify,poorly pneumatized
+cavernous portions,located_at,icas
+suboptimal,modify,motion
+laceration,located_at,staples
+progression,modify,hypodensity
+mass,located_at,midline
+mass,located_at,septum pellucidum
+resolution,modify,hydrocephalus
+partially imaged,modify,et tube
+symmetric in appearance,modify,symmetric
+possibly subacute,modify,infarct
+beam hardening artifact,modify,examination
+some fluid,modify,fluid
+isodense,modify,collection
+tortuous,modify,vertebrobasilar system
+partially calcified structure,suggestive_of,meningioma
+large,modify,hydrocephalus
+moderate,modify,encephalomalacia
+compressed,modify,ventricles
+mild,modify,concentric mucosal thickening
+smaller,modify,sulci
+small,modify,subarachnoid
+pneumocephalus,located_at,operative site
+stable in appearance,modify,stable
+herniation,located_at,foramen magnum
+large,modify,major vascular territorial infarct
+septum cavum pellucidum et vergae,modify,septum cavum pellucidum
+essentially unchanged,modify,hemorrhage
+atrophy,located_at,brain
+blood,located_at,interhemispheric fissure
+fracture,located_at,vertex
+effacement,located_at,perimesencephalic
+effacement,located_at,left aspect
+effacement,located_at,left
+effacement,located_at,right frontal and parietal sulci
+effacement,located_at,right aspect
+enlarging,modify,hemorrhage
+calcification,located_at,pons
+hypodensities,suggestive_of,microvascular infarcts
+hypodensities,suggestive_of,microvascular infarct
+thickening,modify,bilaterally
+lenses,modify,removed
+decreased,modify,ventriculomegaly
+well defined,modify,gray matter
+effacement,located_at,right sided sulci
+limited,modify,beam hardening artifact
+bilaterally,modify,subthalamic nuclei
+locules of gas,suggestive_of,laceration
+air,located_at,sella turcica
+chronic,modify,sclerosis
+visualized portions,modify,mastoids
+decreased,modify,shift
+clear,modify,mastoid and ethmoid air cells
+large,modify,osteoma
+minimal,modify,white matter hypodensities
+large,modify,metastasis
+calcifications,located_at,choroid plexus
+abnormality,located_at,extracalvarial soft tissues
+extensive,modify,fractures
+extent,modify,pneumocephalus
+narrowing,located_at,foramen magnum
+chronic,modify,white matter disease
+minimal,modify,hyperdensity
+blood,located_at,sylvian fissures
+decreased,modify,hypodensity
+subdural,located_at,tentorium
+minimal,modify,anterolisthesis
+entire ventricular system,modify,ventricular system
+thickening,modify,meninges
+effacement,located_at,cisterna magna
+edema,suggestive_of,effacement
+slight,modify,hypodensity
+large,modify,right basal ganglionic hemorrhage
+large,modify,cerumen
+vp shunt,located_at,foramen
+lucency,located_at,calvarium
+degree,modify,ventriculomegaly
+resection,located_at,olfactory groove meningioma
+unchanged,modify,right trans frontal ventriculostomy catheter
+demineralization,located_at,cribriform plates
+severe,modify,atrophy
+lucency,located_at,clivus
+degenerative,modify,anterolisthesis
+significant,modify,beam hardening artifact
+bilaterally,modify,hypoplastic
+deformity,suggestive_of,congenital
+deformity,located_at,brainstem
+not much changed,modify,overall appearance
+not significantly changed,modify,pneumocephalus
+incidental note,modify,cavum septum pellucidum
+largest,modify,lesions
+sebaceous cyst,located_at,vertex
+unchanged,modify,retention cyst
+pneumocephalus,located_at,craniotomy
+unchanged,modify,widening
+bilaterally,modify,pneumocephalus
+persistent,modify,encephalomalacia
+recent,modify,mass
+mild,modify,diastasis
+hyperdensity,located_at,superior aspect
+unchanged,modify,drain
+hyperdensity,suggestive_of,volume averaging
+mild,modify,carotid siphon calcification
+persist,modify,symptoms
+mild,modify,widening
+mild,modify,deviation
+unchanged,modify,csf spaces
+within normal limits,modify,extraaxial spaces
+unchanged,modify,colloid cyst
+irregularity,located_at,inner table
+enlarged,modify,adenoids
+unchanged,modify,hemorrhagic transformation
+measures,modify,mass
+artifact,located_at,hardware
+diffuse,modify,subarachnoid
+normal,modify,ethmoid
+hypodensities,located_at,ventricular
+extensive,modify,microvascular ischemic changes
+configuration,modify,hemorrhage
+slight,modify,hypoattenuation
+encephalomalacia,suggestive_of,previous infarction
+blood products,located_at,region
+artifact,located_at,dental amalgam
+benign,modify,prevascular spaces
+persistent,modify,gyral effacement
+acute,modify,metastasis
+hypodensity,located_at,right frontal and temporal lobes
+edema,located_at,occipital
+decreased,modify,lesion
+extent,modify,subarachnoid
+decreased,modify,atrium
+air,located_at,ventricles
+reduction,modify,volume
+stable,modify,findings
+air,suggestive_of,laceration
+stable,modify,overall size
+ventriculomegaly,located_at,fourth ventricle
+unchanged,modify,mastoids
+acute,modify,cardiopulmonary process
+dilatation,modify,bilaterally
+ventriculomegaly,located_at,ventricles
+acute,modify,intracranialhemorrhage
+partially imaged,modify,ng tube
+pneumocephalus,modify,unchanged
+encephalomalacia,located_at,right parietal and temporal lobes
+bilaterally,modify,carotids
+effaced,modify,quadrigeminal cisterns
+extensive,modify,pneumatization
+reexpanded,modify,ventricles
+encephalomalacia,located_at,left temporal and parietal lobes
+mass,located_at,brain
+extensive,modify,hypoattenuation
+progression,modify,edema
+extensive,modify,white matter changes
+persistent,modify,transependymal migration
+bilaterally,modify,carotid siphon calcifications
+coiled,located_at,nasopharynx
+hemorrhage,located_at,cortex
+small,modify,spur
+confluent,modify,white matter hypodensities
+sclerosis,located_at,clivus
+widening,suggestive_of,atrophy
+right,modify,pons
+sulci,suggestive_of,ex vacuo dilatation
+small,modify,opacification
+blood products,located_at,sulci
+cavernous segments,located_at,icas
+osteoma,located_at,vertex
+significant,modify,shift
+sclerotic,modify,mastoids
+moderate,modify,microvascular ischemic changes
+new,modify,herniation
+limited,modify,skullbase
+smaller,modify,fourth ventricle
+increase,modify,caliber
+infarct,located_at,centrum semiovale
+sclerotic,modify,bones
+bilateral,modify,hemorrhage
+small,modify,lucency
+left,modify,calcifications
+partially visualized,modify,orbits
+symmetric,modify,ventriculomegaly
+right,modify,concha bullosa
+hematoma,located_at,preseptal
+unchanged in position,modify,tip
+complete,modify,opacification
+opacification,located_at,both mastoid air cells
+infarcts,located_at,brainstem
+terminates,located_at,septum pellucidum
+right,modify,ventricles
+hemorrhage,located_at,intraaxial
+preserved,modify,suprasellar
+other infarction,modify,infarction
+infarct,located_at,encephalomalacia
+unchanged from prior,modify,cisterns
+lesion,located_at,vertex
+partially visualized,modify,et tube
+opacification,suggestive_of,mucocele
+preserved,modify,globes
+normal in caliber,modify,ventricles
+hemorrhage,located_at,fourth ventricles
+opacification,located_at,maxillary
+hemorrhage,located_at,cerebellum
+swelling,located_at,orbit
+right,modify,encephalomalacia
+compressed,modify,atrium
+increase,modify,volume
+widely patent,modify,ventricles
+advanced,modify,atrophy
+prominent,modify,subarachnoid spaces
+symmetric in size,modify,orbits
+symmetric in size,modify,ventricles
+significant,modify,pneumocephalus
+bilateral,modify,infarctions
+increased,modify,dilatation
+increased,modify,near complete opacification
+not appreciably changed,modify,hematoma
+fracture,located_at,zygoma
+enlargement,located_at,fourth ventricle
+imaged aspects,modify,orbits
+lesion,suggestive_of,neoplasm
+findings,modify,wet read
+anatomically aligned,modify,temporomandibular joints
+size,modify,hypodensity
+increased,modify,density
+additional mass,modify,mass
+smaller,modify,hypodensity
+white matter hypodensity,suggestive_of,encephalomalacia
+pneumocephalus,located_at,interhemispheric fissure
+acute,modify,large territorial infarcthemorrhage
+terminating,modify,ventriculoperitoneal shunt catheter
+expansion,modify,sella turcica
+overall caliber,modify,ventricular system
+persistent,modify,white matter hypodensity
+no change,modify,ventriculomegaly
+acute,modify,intracanal hemorrhage
+essentially unchanged,modify,exam
+partially imaged,modify,fracture
+hyperdensity,located_at,cortex
+acute,modify,obvious infarct
+calvarium,located_at,vertex
+collapsed,modify,ventricles
+normal in appearance,modify,extracalvarial soft tissues
+acute,modify,major territorial vascular infarction
+clinical correlation,modify,sinusitis
+significant,modify,neural foraminal narrowing
+new,modify,additional intracranial hemorrhage
+expanded,modify,sella turcica
+artifactual,modify,beam hardening
+acute,modify,space occupying lesion
+nondepressed,modify,fracture
+persistent,modify,clinical concern
+calcification,located_at,internal carotid artery
+new,modify,hypodensity
+no change,modify,distribution
+expanded,modify,partially empty sella
+intact,modify,cisterns
+dashboard,modify,wet read
+significant,modify,hypoattenuation
+small,modify,blood product
+marked,modify,hypodensities
+measuring,modify,osteoma
+fat containing lesion,suggestive_of,lipoma
+small,modify,bone island
+unchanged,modify,cranioplasty
+ex vacuo dilatation,modify,body
+persistent,modify,herniation
+debris,located_at,nasopharynx
+marked,modify,encephalomalacia
+hyperdensity,located_at,sylvian fissure
+pneumocephalus,suggestive_of,procedure
+disproportionately prominent,modify,sulci
+intact,modify,partially imaged globes
+deviated,modify,septum pellucidum
+posttraumatic,modify,encephalomalacia
+hyperdensity,suggestive_of,hemorrhagic transformation
+demineralization,modify,lateral lamellae
+lucency,suggestive_of,fracture
+pneumocephalus,suggestive_of,postprocedural
+hyperdensity,located_at,anterior aspect
+unchanged,modify,coil
+hyperdensity,located_at,posterior aspect
+hyperdensity,suggestive_of,aneurysm
+limited,modify,interpretation
+unremarkable in appearance,modify,ventricles
+hyperdensity,suggestive_of,infarct
+compression,located_at,atrium
+compression,located_at,right lateral and third ventricles
