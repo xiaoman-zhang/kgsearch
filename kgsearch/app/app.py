@@ -185,17 +185,18 @@ def create_app():
     app.config["JSONIFY_PRETTYPRINT_REGULAR"] = True
     app.config["CORS_HEADERS"] = "Content-Type"
     CORS(app, resources={r"/search/*": {"origins": "*"}})
-
+    print('Start query')
     @app.route("/search/<k>/<n>/<p>/<query>", methods=["GET"])
     @cross_origin()
     def get(k: int, n: int, p: int, query: str):
-
+        print(query)
         path = pathlib.Path(__file__).parent.joinpath("./../data")
-
+        
         if os.path.exists(os.path.join(path, "search.pkl")):
             with open(os.path.join(path, "search.pkl"), "rb") as f:
                 search = pickle.load(f)
         else:
+            print('Start search')
             search = Search(file=os.path.join(path, "data.csv")).save(
                 os.path.join(path, "search.pkl")
             )
