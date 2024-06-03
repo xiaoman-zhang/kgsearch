@@ -9,7 +9,7 @@ KGSearch is a minimalist tool for searching and viewing entities in a graph and 
 ## Installation
 
 ```sh
-pip install git+https://github.com/xiaoan-zhang/kgsearch
+pip install git+https://github.com/xiaoman-zhang/kgsearch
 ```
 
 ## ✅ Quick Start
